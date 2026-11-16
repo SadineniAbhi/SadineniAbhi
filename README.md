@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I’m Abhi Sadineni
-- I'm looking to collaborate on Data Engineering and Agentic AI
+- I'm looking to collaborate on Backend and Agentic AI
 - reach me at abhisadineni@gmail.com
 - [www.sadineni.in](https://www.sadineni.in)
 
